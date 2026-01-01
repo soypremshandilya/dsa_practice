@@ -11,6 +11,7 @@ class Main {
         System.out.println(i);
         break; 
       }
+      
     }
     sc.close();
   }
