@@ -12,6 +12,5 @@ public class shuffleTheArray {
       result[index++] = nums[i + n];
     }
     System.out.println(Arrays.toString(result));
-
   }
 }
